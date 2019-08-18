@@ -16,4 +16,4 @@ Because of this reasons, it took me the 4 hours that were estimated as a maximum
 
 In order to run the project, use the following task:
 
-* `run npm start` for a dev server. It opens automatically a browser window.
+* `npm run start` for a dev server. It opens automatically a browser window.
